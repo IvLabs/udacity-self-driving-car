@@ -1,0 +1,9 @@
+tflearn
+tqdm
+numpy
+pandas
+matplotlib
+flask
+socketio
+eventlet
+shutil
