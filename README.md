@@ -13,7 +13,8 @@ You'll require the following packages to run this on you own machine.
 
 ### Installing
 * clone this repository.
-* [Tensorflow-gpu](https://www.tensorflow.org/install/) - Install tensorflow gpu from this link (you will need a nvidia graphic card)
+* [Tensorflow-gpu](https://www.tensorflow.org/install/) - Install tensorflow gpu from this link (you will need a nvidia graphics card)
+* install opencv
 * use the following command to install other dependencies.
 ```
 pip install -r requirements.txt
