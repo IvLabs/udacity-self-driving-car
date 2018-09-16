@@ -27,7 +27,7 @@ To check the installation of the libraries you can import them in your python te
 (mostly everything except tensorflow and opencv should work without any problems)
 
 ## How to train your own neural network
-
+ceate IMG, data folder
 save your images in IMG folder and save the driving_log.csv in data folder then run the following command.
 
 ```
