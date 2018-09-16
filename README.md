@@ -42,9 +42,9 @@ python drive.py
 ```
 ## Authors
 
-* **Navid Panchi** - [*IvLabs, Vnit nagpur*](https://ivlabs.in) - [github](https://github.com/navidpanchi)
+* **Navid Panchi** - [*IvLabs, Vnit nagpur*](http://www.ivlabs.in/) - [github](https://github.com/navidpanchi)
 
-* **Archana Gahiwad** - [*IvLabs, Vnit nagpur*](https://ivlabs.in) 
+* **Archana Gahiwad** - [*IvLabs, Vnit nagpur*](http://www.ivlabs.in/) 
 
 ## License
 
