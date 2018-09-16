@@ -20,60 +20,33 @@ pip install -r requirements.txt
 ```
 
 if it fails you can install the following libraries using pip directly. (if you get stuck somewhere doing this, just google it)
-```
 
-```
 
-## Running the tests
+## Checking the installation
 To check the installation of the libraries you can import them in your python terminal. 
 (mostly everything except tensorflow and opencv should work without any problems)
 
 ## How to train your own neural network
 
-Explain what these tests test and why
+save your images in IMG folder and save the driving_log.csv in data folder then run the following command.
 
 ```
-Give an example
+python model_train.py
 ```
 
-### And coding style tests
+## Testing
 
-Explain what these tests test and why
-
+Start the simulator in autonomous mode. Then run the following command.
 ```
-Give an example
+python drive.py
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Navid Panchi** - [*IvLabs, Vnit nagpur*](https://ivlabs.in) - [github](https://github.com/navidpanchi)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Archana Gahiwad** - [*IvLabs, Vnit nagpur*](https://ivlabs.in) - [github]
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
