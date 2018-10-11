@@ -140,36 +140,10 @@ def send_control(steering_angle, throttle):
 
 
 if __name__ == '__main__':
-    # parser = argparse.ArgumentParser(description='Remote Driving')
-    # # parser.add_argument(
-    # #     'model',
-    # #     type=str,
-    # #     help='Path to model h5 file. Model should be on the same path.'
-    # # )
-    # parser.add_argument(
-    #     'image_folder',
-    #     type=str,
-    #     nargs='?',
-    #     default='',
-    #     help='Path to image folder. This is where the images from the run will be saved.'
-    # )
-    # args = parser.parse_args()
+    
 
     #load model
     model.load("autonomous-driving-car.tflearn")
-
-    # if args.image_folder != '':
-    #     print("Creating image folder at {}".format(args.image_folder))
-    #     if not os.path.exists(args.image_folder):
-    #         os.makedirs(args.image_folder)
-    #     else:
-    #         shutil.rmtree(args.image_folder)
-    #         os.makedirs(args.image_folder)
-    #     print("RECORDING THIS RUN ...")
-    # else:
-    #     print("NOT RECORDING THIS RUN ...")
-
-    # wrap Flask application with engineio's middleware
     app = socketio.Middleware(sio, app)
 
     # deploy as an eventlet WSGI server
