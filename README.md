@@ -6,7 +6,7 @@ This is a machine learning project, in which a car is driven autonomously in a s
 
 You'll require the following packages to run this on you own machine. 
 ## libraries
-
+* [Udacity open source simulator](https://github.com/udacity/self-driving-car-sim)
 * [Tensorflow-gpu](https://www.tensorflow.org/install/) - Deep learning library used.
 * [TFlearn](https://tflearn.org/) - Higher level wrapper on tensorflow.
 * you only need to install tensoflow by your self. Others can be isntalled using requirements.txt, follow the instructions in installing section 
@@ -28,7 +28,7 @@ To check the installation of the libraries you can import them in your python te
 (mostly everything except tensorflow and opencv should work without any problems)
 
 ## How to train your own neural network
-ceate IMG, data folder
+create IMG, data folder
 save your images in IMG folder and save the driving_log.csv in data folder then run the following command.
 
 ```
