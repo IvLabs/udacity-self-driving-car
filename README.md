@@ -1,6 +1,7 @@
 # udacity-self-driving-car
-This is a machine learning project, in which a car is driven autonomously in a simulator using a nine-layered convolutional neural network. The simulator used in the video is Udacity's open source simulator. The video link is :  https://www.youtube.com/watch?v=9lgAEADN3Fk
+This is a machine learning project, in which a car is driven autonomously in a simulator using a nine-layered convolutional neural network. The simulator used in the video is Udacity's open source simulator. The video link is below:
 
+<video src="video.mp4" width="320" height="200" controls preload><https://www.youtube.com/watch?v=9lgAEADN3Fk>
 
 ### Prerequisites
 
