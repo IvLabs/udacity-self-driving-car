@@ -45,7 +45,7 @@ python drive.py
 
 * **Navid Panchi** - [*IvLabs, Vnit nagpur*](http://www.ivlabs.in/) - [github](https://github.com/navidpanchi)
 
-* **Archana Gahiwad** - [*IvLabs, Vnit nagpur*](http://www.ivlabs.in/) 
+* **Harsha Namdeo** - [*IvLabs, Vnit nagpur*](http://www.ivlabs.in/) -[github](https://github.com/harshanamdeo)
 
 ## License
 
